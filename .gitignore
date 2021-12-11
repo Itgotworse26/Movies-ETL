@@ -1,7 +1,6 @@
 # Adding config.py and ETL_Practice.ipynb file.
 config.py
 ETL_Practice.ipynb
-movies_metadata.csv
 ratings.csv
 
 # Byte-compiled / optimized / DLL files
